@@ -15,3 +15,8 @@ Alla har order:0 som default
 Order kan ändras och på så sätt visas element i olika ordning
 
 Flex-wrap: wrap;
+
+Du behöver inte tänka på bredd, margin, padding,
+bara elementens storleksförhållanden jämtemot varandra
+
+Responsiv webbdesign
