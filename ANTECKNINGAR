@@ -1,0 +1,17 @@
+Display:flex
+
+BYGGA PRESENTATION RUNT EXEMPEL ELLER EJ?
+
+Generellt vill alla saker i en flexbox ligga på samma rad
+
+Youtube Wes Bos Learn CSS flexbox (x/6)
+
+Flex directions
+
+Flex-direction: row -reverse  Visuellt ändra ordning utan att ändra
+i källkoden
+
+Alla har order:0 som default
+Order kan ändras och på så sätt visas element i olika ordning
+
+Flex-wrap: wrap;
