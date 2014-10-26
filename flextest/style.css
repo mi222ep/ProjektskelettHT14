@@ -1,0 +1,18 @@
+.wrapper{
+    
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    
+}
+.box{
+    font-size: 50px;
+    text-align: center;
+    background-color: beige;
+    border: 2px solid black;
+    width: 50px;
+}
+.box2{
+    background-color: yellow;
+    flex: 2;
+}
