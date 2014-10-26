@@ -1,8 +1,9 @@
 body{
     background-color: gray;
 }
+
 .box{
-        font-size: 50px;
+    font-size: 50px;
     text-align: center;
     background-color: beige;
     border: 2px solid black;
@@ -12,39 +13,15 @@ body{
 }
 
 
+
 .wrapper{
     display: flex;
 }
 .box{
-    flex: 1;
+    width: 20px;
 }
-.box1{
-    order: 7;
-}
-box2{
-    order: 3;
-}
-box3{
-    order: 5;
-}
-box4{
-    order: 2;
-}
-box5{
-    order: 9;
-}
-box6{
-    order 1;
-}
-box7{
-    order: 4;
-}
-box8{
-    order: 6;
-}
-box9{
-    order: 8;
-}
+
+
 
 
 
